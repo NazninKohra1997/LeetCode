@@ -1,0 +1,15 @@
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\bin\Debug\net6.0\two_sum.exe
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\bin\Debug\net6.0\two_sum.deps.json
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\bin\Debug\net6.0\two_sum.runtimeconfig.json
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\bin\Debug\net6.0\two_sum.dll
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\bin\Debug\net6.0\two_sum.pdb
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.csproj.AssemblyReference.cache
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.AssemblyInfoInputs.cache
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.AssemblyInfo.cs
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.csproj.CoreCompileInputs.cache
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.dll
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\refint\two_sum.dll
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.pdb
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\two_sum.genruntimeconfig.cache
+C:\Users\Jhora\Desktop\My_codes\LeetCode\leetcode\two_sum\obj\Debug\net6.0\ref\two_sum.dll
